@@ -1,9 +1,9 @@
 {
-  "version_code": 97,
+  "version_code": 98,
   "version_name": "0.4.0",
-  "apk_url": "https://github.com/overthinkercurious/hisaab-qitaab-releases/releases/latest/download/Hisaab-Qitaab-97.apk",
-  "size_bytes": 7749112,
-  "sha256": "0359bd671a7d1511bb12adbfa1ab300ceea64146dccd96bf6565cd3293cd0cb9",
-  "created_at": "2026-11-26T18:26:06.743Z",
-  "release_notes": "Official release for Hisaab Qitaab Android App (Build 97)."
+  "apk_url": "https://github.com/overthinkercurious/hisaab-qitaab-releases/releases/latest/download/Hisaab-Qitaab-98.apk",
+  "size_bytes": 7765496,
+  "sha256": "cf578ab2786b420e905863b9bb4564174acef626b6dd305e129bf44b37ab69b5",
+  "created_at": "2026-11-27T12:52:21.678Z",
+  "release_notes": "Official release for Hisaab Qitaab Android App (Build 98)."
 }
